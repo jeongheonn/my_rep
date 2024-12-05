@@ -6,7 +6,7 @@
 int main() {
     std::vector<int> vec = {1, 2, 3, 4, 5};
     
-    std::cout << "Vector: ";
+    std::cout << "Vector : ";
     print_vector(vec);
 
     int sum = sum_vector(vec);
@@ -20,4 +20,3 @@ int main() {
 
     return 0;
 }
-
